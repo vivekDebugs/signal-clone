@@ -16,6 +16,6 @@ https://sgnl-cln.web.app/
 
 ## App Demo
 
-Scan the QR code with Expo Go and the have the application demoed on your ios/android
+Scan the QR code with Expo Go and have the application demoed on your ios/android
 
 ![sgnl-cln-qr](https://user-images.githubusercontent.com/49686162/129013201-0d9ffc9b-b710-4d58-ad05-2cabee477b14.png)
